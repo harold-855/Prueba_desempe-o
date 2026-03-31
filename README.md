@@ -59,10 +59,10 @@
     
    * It allows you to delete a record; for this you use the student_id, it identifies it and then deletes it  
     
-    example  
+     example  
     
-     1. 1002jeff= {"student_id":01002jeff,"name":juna,"age":23,"course":mathematic,"state":active}  
-     2. {}  
+      1. 1002jeff= {"student_id":01002jeff,"name":juna,"age":23,"course":mathematic,"state":active}  
+      2. {}  
 
    * (if you select the sixth option)
       then the program ends      
