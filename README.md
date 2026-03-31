@@ -61,8 +61,8 @@
     
      example  
     
-      1. 1002jeff= {"student_id":01002jeff,"name":juna,"age":23,"course":mathematic,"state":active}  
-      2. {}  
+     1002jeff= {"student_id":01002jeff,"name":juna,"age":23,"course":mathematic,"state":active}  
+     {}  
 
    * (if you select the sixth option)
       then the program ends      
