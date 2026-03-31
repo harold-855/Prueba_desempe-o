@@ -1,4 +1,3 @@
-
 def record_student(student_id):          
 
     counter=0

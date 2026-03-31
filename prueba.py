@@ -75,7 +75,3 @@ while uses == 0:
     else:
         print("error")
 
-
-
-
-
