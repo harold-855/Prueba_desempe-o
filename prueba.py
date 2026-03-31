@@ -32,7 +32,7 @@ while uses == 0:
 
         uses = 1                                    # the program ends
 
-    if option == 1:                                     # in this option    the program create the records
+    elif option == 1:                                     # in this option    the program create the records
 
         student_id=uuid.uuid4().hex                    
 
@@ -42,13 +42,13 @@ while uses == 0:
 
         print(records)
 
-    if option == 2:                               # show you the list of students 
+    elif option == 2:                               # show you the list of students 
 
         list_of_students=datos.consult(students)
 
         print(students)
 
-    if option == 3:                                 #With this you can find a student using their ID
+    elif option == 3:                                 #With this you can find a student using their ID
 
         student_id_search=input("Enter the ID  that you are looking for ")
 
@@ -56,7 +56,7 @@ while uses == 0:
 
         print(student_search_engine)
 
-    if option == 4:                     #With this you can update a student's information using their ID
+    elif option == 4:                     #With this you can update a student's information using their ID
 
         student_update_id=input("Enter the ID  that you are looking for ")
 
@@ -64,7 +64,7 @@ while uses == 0:
 
         print(updater)
 
-    if option == 5:  #With this you can delete a student's information using the ID
+    elif option == 5:  #With this you can delete a student's information using the ID
 
         student_eliminate_id=input("Enter the ID  that you are looking for ") 
 
