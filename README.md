@@ -41,13 +41,13 @@
 
      example: pepito, junatio, etc 
 
-    * If you choose the third option
+   * If you choose the third option
     
      The third option allows you to search for a student by entering their student_id  
 
      example: 01002jeff= {"student_id":01002jeff,"name":harold,"age":20,"course":mathematic,"state":inactive}  
      
-    * If you choose the fourth option  
+   * If you choose the fourth option  
     
      It allows you to modify the record data using the student_id to find it  
 
@@ -55,16 +55,16 @@
      
      01002jeff= {"student_id":01002jeff,"name":juna,"age":23,"course":mathematic,"state":active}  
 
-    * If you select the fifth option:  
+   * If you select the fifth option:  
     
-    * It allows you to delete a record; for this you use the student_id, it identifies it and then deletes it  
+   * It allows you to delete a record; for this you use the student_id, it identifies it and then deletes it  
     
     example  
     
      1. 1002jeff= {"student_id":01002jeff,"name":juna,"age":23,"course":mathematic,"state":active}  
      2. {}  
 
-    * (if you select the sixth option)
+   * (if you select the sixth option)
       then the program ends      
 
     
